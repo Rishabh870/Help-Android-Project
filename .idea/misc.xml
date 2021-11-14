@@ -5,8 +5,12 @@
       <map>
         <entry key="..\:/Github/Help-Android-Project/app/src/main/res/drawable/circular_shape.xml" value="0.2203125" />
         <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
-        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/add_number_page.xml" value="0.2" />
+        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/add_number_page.xml" value="0.17391304347826086" />
+        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/edit_sos_message.xml" value="0.20416666666666666" />
+        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/instruction.xml" value="0.5423728813559322" />
         <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/menu.xml" value="0.22" />
+        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Github/Help-Android-Project/app/src/main/res/layout/view_number.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
