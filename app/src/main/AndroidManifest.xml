@@ -10,13 +10,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Help">
         <activity
-            android:name=".MainActivity"
+            android:name=".Splash_Screen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterNumber"
+            android:exported="true" />
+        <activity
+            android:name=".ViewNumber"
+            android:exported="true" />
+        <activity
+            android:name=".EditMessage"
+            android:exported="true" />
+        <activity
+            android:name=".InstructionActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MenuActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+
         </activity>
     </application>
 
